@@ -2,12 +2,12 @@
 
 
 
-Stability of structures 
-Course project
+#Stability of structures 
+#Course project
  
 
--Harrsha(20161056) 
--Varun(2019210017)
+*Harrsha(20161056) 
+*Varun(2019210017)
 
 
 
