@@ -2,11 +2,13 @@
 
 
 
-#Stability of structures 
-#Course project
- 
+*Stability of structures 
+
+*Course project
+
 
 *Harrsha(20161056) 
+
 *Varun(2019210017)
 
 
@@ -23,5 +25,6 @@ Develop a program for carrying out the stability analysis of the beam columns . 
 	Fixed Ended Beam-column
 		Uniform load case 
 		Concentrated load case 
+
 *Build a gui for users   where stability functions are plotted based on the given input conditions.
 Technology to be used python
